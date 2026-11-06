@@ -1,0 +1,30 @@
+body {
+  margin: 20px 90px;
+  font-family: "Plus Jakarta Sans", sans-serif;
+}
+.topsvg {
+  background-color: black;
+  width: max-content;
+  padding: 13px 13px 10px 13px;
+}
+header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.headerright {
+  background-color: black;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 20px;
+}
+.titlep1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+}
+.txt1 {
+  color: #6a6662;
+  text-align: center;
+}
